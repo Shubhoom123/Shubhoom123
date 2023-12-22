@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Shubham Khalkho a Sophmore at Arizona State University who's enchanted by the field of computer science and its endless potential. I code, I brainstorm and I stay focused. I'm still figuring half the stuff that I learn so all help is appreciated. Aiming to be a full-stack developer by the end of 2024 and compete professionally in Hackathons and work as a Free Lancer.
+
+###🧰 Skills and Tools
