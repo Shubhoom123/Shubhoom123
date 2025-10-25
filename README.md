@@ -7,7 +7,7 @@
 *"I code, I brainstorm and I stay focused."*
 
 [![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?label=Follow&style=social)](https://github.com/Shubhoom123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Email-khalkho%40gmail.com-red?style=flat&logo=gmail)](mailto:khalkhoshubham03@gmail.com)
 
 </div>
