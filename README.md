@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Shubham Khalkho
 
-### 🚀 Aspiring Full-Stack Developer | Computer Science Sophomore @ ASU
+### 🚀 Aspiring Full-Stack Developer | Computer Science Senior @ ASU
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?label=Follow&style=social)](https://github.com/Shubhoom123)
@@ -15,7 +15,7 @@
 
 ## 🎓 About Me
 
-I'm a **Computer Science sophomore** at **Arizona State University** who's enchanted by the endless potential of technology. Currently on a journey to become a **full-stack developer** by the end of 2024, while exploring everything from algorithms to web development!
+I'm a **Computer Science senior** at **Arizona State University** who's enchanted by the endless potential of technology. Currently on a journey to become a **full-stack developer** by the end of 2024, while exploring everything from algorithms to web development!
 
 - 🔭 **Currently working on:** Building full-stack projects and exploring data structures
 - 🌱 **Learning:** Advanced React, Node.js, and system design patterns
