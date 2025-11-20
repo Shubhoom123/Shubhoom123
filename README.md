@@ -80,34 +80,6 @@ I'm a **Computer Science senior** at **Arizona State University** who's enchante
 
 ---
 
-## 🌟 What I'm Up To
-```python
-class ShubhamKhalkho:
-    def __init__(self):
-        self.name = "Shubham Khalkho"
-        self.role = "Computer Science Student"
-        self.university = "Arizona State University"
-        self.year = "Sophomore"
-        self.goal = "Full-Stack Developer by end of 2024"
-        self.location = "Arizona, USA"
-        
-    def current_focus(self):
-        return [
-            "Building full-stack web applications",
-            "Mastering data structures & algorithms",
-            "Contributing to open-source projects",
-            "Expanding my portfolio with real-world projects"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's connect and build something amazing together!")
-
-me = ShubhamKhalkho()
-me.say_hi()
-```
-
----
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&theme=tokyo-night&hide_border=true)
@@ -131,13 +103,6 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 
 <div align="center">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/Shubhoom123/count.svg)
-
----
 
 **⭐️ From [Shubhoom123](https://github.com/Shubhoom123)**
 
