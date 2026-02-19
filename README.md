@@ -11,9 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Email-khalkhoshubham03%40gmail.com-red?style=flat&logo=gmail)](mailto:khalkhoshubham03@gmail.com)
 
-</div>
-
----
 
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
@@ -22,10 +19,6 @@
 I'm a **Computer Science Senior** at **Arizona State University** who's currently pursuing by the endless potential of technology. Currently on my journey to become a **Full-Stack Developer**.
 
 - **Interests:** Problem-solving, Web development, Data analysis and Building Projects.
-
-</div>
-
----
 
 ## Tech Stack
 
