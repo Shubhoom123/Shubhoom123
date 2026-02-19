@@ -91,18 +91,18 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444&cache_seconds=1800)](https://github.com/Shubhoom123)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444&cache_seconds=1800)](https://github.com/Shubhoom123)
 
 </div>
 
 <div align="center">
 
 ### Quick Stats
-![](https://komarev.com/ghpvc/?username=Shubhoom123&color=FFD700&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Shubhoom123&color=FFD700&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Shubhoom123?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Shubhoom123?style=social)
 
 </div>
 
