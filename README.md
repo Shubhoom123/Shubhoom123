@@ -91,9 +91,9 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444&cache_seconds=1800)](https://github.com/Shubhoom123)
+![GitHub Stats](https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444&include_all_commits=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444&cache_seconds=1800)](https://github.com/Shubhoom123)
+![Top Languages](https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444)
 
 </div>
 
@@ -101,8 +101,7 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 ### Quick Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubhoom123&color=FFD700&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/Shubhoom123?style=social)
+![Followers](https://img.shields.io/github/followers/Shubhoom123?style=social)
 
 </div>
 
@@ -112,7 +111,7 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&title_color=FFD700&custom_title=Shubham%20Khalkho's%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&title_color=FFD700&custom_title=Shubham%20Khalkho's%20Contribution%20Graph)
 
 </div>
 
@@ -120,7 +119,7 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C0C0C0&border=444444" alt="GitHub Streak Stats"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C0C0C0&border=444444)
 
 </div>
 
