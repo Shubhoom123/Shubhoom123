@@ -5,16 +5,12 @@
 
 # Hi, I'm Shubham Khalkho
 
-## Computer Science and Data Science Senior @ ASU
-## Aspiring Full Stack and MLOps Engineer
+### Computer Science and Data Science Senior @ ASU
+### Aspiring Full Stack and MLOps Engineer
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Email-khalkhoshubham03%40gmail.com-red?style=flat&logo=gmail)](mailto:khalkhoshubham03@gmail.com)
-
-</div>
-
----
 
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
@@ -24,9 +20,6 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 - **Interests:** Problem-solving, Web development, Data analysis and Building Projects.
 
-</div>
-
----
 
 ## Tech Stack
 
@@ -85,11 +78,10 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 ### Certifications
 ![Python Certification](https://img.shields.io/badge/Python_Certification-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
 
@@ -97,15 +89,13 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 </div>
 
-<div align="center">
+<div align="right">
 
 ### Quick Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=Shubhoom123&color=58a6ff&style=flat-square&label=Profile+Views&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/Shubhoom123?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
 
 </div>
-
----
 
 ## Contribution Graph
 
@@ -123,7 +113,6 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 </div>
 
----
 
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
@@ -142,7 +131,6 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 
 </div>
 
----
 
 <div align="center" style="background-color: #0d1117; padding: 20px;">
 
