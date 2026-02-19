@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner -->
+<!-- Elden Ring Banner -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
 
 # Hi, I'm Shubham Khalkho
@@ -91,9 +91,18 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=10&theme=github_dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444"/>
+
+</div>
+
+<div align="center">
+
+### Quick Stats
+![](https://komarev.com/ghpvc/?username=Shubhoom123&color=FFD700&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shubhoom123?style=social)
 
 </div>
 
@@ -103,11 +112,15 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=false&border_color=444444&area_color=FFD700&title_color=FFD700&custom_title=Shubham%20Khalkho's%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&title_color=FFD700&custom_title=Shubham%20Khalkho's%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=444444&stroke=C0C0C0&currStreakNum=FFD700&sideNums=FFD700&sideLabels=C0C0C0&dates=C0C0C0" alt="GitHub Streak"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C0C0C0&border=444444" alt="GitHub Streak Stats"/>
 
 </div>
 
