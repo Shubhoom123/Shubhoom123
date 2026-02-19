@@ -3,14 +3,18 @@
 <!-- Elden Ring Banner -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
 
-# Hello, I'm Shubham Khalkho
+# Hi, I'm Shubham Khalkho
 
-### Computer Science and Data Science Senior @ ASU
-### Aspiring Full Stack and ML Engineer
+### Aspiring Full-Stack Developer | Computer Science Senior @ ASU
 
+
+[![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?label=Follow&style=social)](https://github.com/Shubhoom123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Email-khalkhoshubham03%40gmail.com-red?style=flat&logo=gmail)](mailto:khalkhoshubham03@gmail.com)
 
+</div>
+
+---
 
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
@@ -19,6 +23,10 @@
 I'm a **Computer Science Senior** at **Arizona State University** who's currently pursuing by the endless potential of technology. Currently on my journey to become a **Full-Stack Developer**.
 
 - **Interests:** Problem-solving, Web development, Data analysis and Building Projects.
+
+</div>
+
+---
 
 ## Tech Stack
 
@@ -83,17 +91,17 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444)
+![GitHub Stats](https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d)
 
-![Top Languages](https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444)
+![Top Languages](https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
 </div>
 
 <div align="center">
 
 ### Quick Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Shubhoom123&color=FFD700&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Shubhoom123?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Shubhoom123&color=58a6ff&style=flat-square&label=Profile+Views&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Shubhoom123?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
 
 </div>
 
@@ -103,7 +111,7 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700&title_color=FFD700&custom_title=Shubham%20Khalkho's%20Contribution%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&title_color=58a6ff&custom_title=Shubham%20Khalkho's%20Contribution%20Graph&border_color=30363d)
 
 </div>
 
@@ -111,7 +119,7 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C0C0C0&border=444444)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shubhoom123&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d)
 
 </div>
 
