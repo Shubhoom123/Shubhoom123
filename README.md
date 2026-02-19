@@ -89,14 +89,6 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 </div>
 
-<div align="right">
-
-### Quick Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Shubhoom123&color=58a6ff&style=flat-square&label=Profile+Views&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/Shubhoom123?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
-
-</div>
-
 ## Contribution Graph
 
 <div align="center">
@@ -113,7 +105,6 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 </div>
 
-
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
 ## Let's Connect!
@@ -129,12 +120,7 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 
 </div>
 
-</div>
-
-
 <div align="center" style="background-color: #0d1117; padding: 20px;">
-
-**From [Shubhoom123](https://github.com/Shubhoom123)**
 
 *"Stay focused. Stay positive. Keep coding."*
 
