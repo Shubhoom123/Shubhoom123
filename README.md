@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Shubham Khalkho
+# Hi, I'm Shubham Khalkho
 
-### 🚀 Aspiring Full-Stack Developer | Computer Science Senior @ ASU
+### Aspiring Full-Stack Developer | Computer Science Senior @ ASU
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?label=Follow&style=social)](https://github.com/Shubhoom123)
@@ -13,16 +13,16 @@
 
 ---
 
-## 🎓 About Me
+## About Me
 
 I'm a **Computer Science Senior** at **Arizona State University** who's currently pursuing by the endless potential of technology. Currently on my journey to become a **Full-Stack Developer**.
 
 
-- 💡 **Interests:** Problem-solving, Web development, Data analysis and Building Projects.
+- **Interests:** Problem-solving, Web development, Data analysis and Building Projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,7 +49,7 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -61,22 +61,22 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 💼 Let's Connect!
+## Let's Connect!
 
 I'm always excited to collaborate on interesting projects or discuss tech! Feel free to reach out:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalkhoshubham03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhoom123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shubhoom123.github.io)
 
 </div>
 
@@ -85,8 +85,8 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 <div align="center">
 
 
-**⭐️ From [Shubhoom123](https://github.com/Shubhoom123)**
+**From [Shubhoom123](https://github.com/Shubhoom123)**
 
-*"Stay focused. Stay positive. Keep coding."* 🚀
+*"Stay focused. Stay positive. Keep coding."*
 
 </div>
