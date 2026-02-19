@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Email-khalkhoshubham03%40gmail.com-red?style=flat&logo=gmail)](mailto:khalkhoshubham03@gmail.com)
 
-<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+<div style="background-color: #101411; padding: 20px; border-radius: 10px;">
 
 ## About Me
 
