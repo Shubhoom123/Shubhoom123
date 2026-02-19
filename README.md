@@ -1,5 +1,8 @@
 <div align="center">
-  
+
+<!-- Elden Ring Banner -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
+
 # Hi, I'm Shubham Khalkho
 
 ### Aspiring Full-Stack Developer | Computer Science Senior @ ASU
@@ -52,10 +55,11 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 ## GitHub Stats
 
 <div align="center">
-  
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/Shubhoom123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=8B0000&border_color=FFD700"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=FFD700"/>
+</a>
 
 </div>
 
@@ -63,7 +67,13 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 ## Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&theme=tokyo-night&hide_border=true)
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&theme=high-contrast&bg_color=0d1117&color=FFD700&line=8B0000&point=C0C0C0&area=true&hide_border=false&border_color=FFD700)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=8B0000&currStreakLabel=FFD700&border=FFD700&stroke=C0C0C0)
+
+</div>
 
 ---
 
