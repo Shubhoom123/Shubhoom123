@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Elden Ring Banner -->
+<!--Banner -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
 
 # Hi, I'm Shubham Khalkho
 
-### Aspiring Full-Stack Developer | Computer Science Senior @ ASU
+## Computer Science and Data Science Senior @ ASU
+## Aspiring Full Stack and MLOps Engineer
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Shubhoom123?label=Follow&style=social)](https://github.com/Shubhoom123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Email-khalkhoshubham03%40gmail.com-red?style=flat&logo=gmail)](mailto:khalkhoshubham03@gmail.com)
 
