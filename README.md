@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Elden Ring Banner -->
+<!-- Banner -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
 
 # Hi, I'm Shubham Khalkho
@@ -16,12 +16,15 @@
 
 ---
 
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+
 ## About Me
 
 I'm a **Computer Science Senior** at **Arizona State University** who's currently pursuing by the endless potential of technology. Currently on my journey to become a **Full-Stack Developer**.
 
-
 - **Interests:** Problem-solving, Web development, Data analysis and Building Projects.
+
+</div>
 
 ---
 
@@ -88,10 +91,9 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-<a href="https://github.com/Shubhoom123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=8B0000&border_color=FFD700"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=FFD700"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&border_color=444444&hide_border=false"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=10&theme=github_dark&bg_color=0d1117&title_color=FFD700&text_color=C0C0C0&border_color=444444&hide_border=false"/>
 
 </div>
 
@@ -101,13 +103,17 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&theme=high-contrast&bg_color=0d1117&color=FFD700&line=8B0000&point=C0C0C0&area=true&hide_border=false&border_color=FFD700)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=false&border_color=444444&area_color=FFD700&title_color=FFD700&custom_title=Shubham%20Khalkho's%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=8B0000&currStreakLabel=FFD700&border=FFD700&stroke=C0C0C0)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhoom123&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border=444444&stroke=C0C0C0&currStreakNum=FFD700&sideNums=FFD700&sideLabels=C0C0C0&dates=C0C0C0" alt="GitHub Streak"/>
 
 </div>
 
 ---
+
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
 ## Let's Connect!
 
@@ -117,15 +123,16 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalkhoshubham03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhoom123)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shubhoom123.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhoom123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=todoist&logoColor=black)](https://shubhoom123.github.io)
+
+</div>
 
 </div>
 
 ---
 
-<div align="center">
-
+<div align="center" style="background-color: #0d1117; padding: 20px;">
 
 **From [Shubhoom123](https://github.com/Shubhoom123)**
 
