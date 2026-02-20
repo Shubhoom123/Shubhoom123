@@ -86,9 +86,39 @@ I'm a Computer Science Senior at Arizona State University buildinng full stack p
 
 ## GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" height="195" /><br>
-  <img src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" height="195" />
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://streak-stats.demolab.com/?user=Shubhoom123&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&title_color=58a6ff&custom_title=Shubham%20Khalkho's%20Contribution%20Graph&border_color=30363d" alt="Contribution Graph" width="100%" />
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ## Contribution Graph
