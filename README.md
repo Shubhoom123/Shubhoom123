@@ -89,12 +89,10 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 ## GitHub Stats
 
 <div align="left">
-
-<img height="200" src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
-
-<img height="467" src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
-
+  <img src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" height="195" />
 </div>
+
 
 ## Contribution Graph
 
