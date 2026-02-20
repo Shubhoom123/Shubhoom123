@@ -92,7 +92,7 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 <img height="200" src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
 
-<img height="300" src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
+<img height="467" src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" />
 
 </div>
 
