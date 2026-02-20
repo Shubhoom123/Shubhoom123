@@ -121,22 +121,6 @@ I'm a Computer Science Senior at Arizona State University buildinng full stack p
 
 </div>
 
-## Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&title_color=58a6ff&custom_title=Shubham%20Khalkho's%20Contribution%20Graph&border_color=30363d)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shubhoom123&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d)
-
-</div>
-
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
 ## Let's Connect!
