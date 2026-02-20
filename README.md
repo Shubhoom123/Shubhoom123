@@ -15,9 +15,7 @@
 
 ## About Me
 
-I'm a **Computer Science Senior** at **Arizona State University** who's currently pursuing by the endless potential of technology. Currently on my journey to become a **Full-Stack Developer**.<br>
-
-**Interests:** Problem-solving, Web development, Data analysis and Building Projects.
+I'm a Computer Science Senior at Arizona State University buildinng full stack projects and ML Models in my field of study.<br>
 
 </div>
 
