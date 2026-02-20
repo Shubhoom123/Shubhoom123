@@ -78,7 +78,6 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 ### Certifications
 ![Python Certification](https://img.shields.io/badge/Python_Certification-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
 ## GitHub Stats
 
 <div align="left">
@@ -124,4 +123,6 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 
 *"Stay focused. Stay positive. Keep coding."*
 
+</div>
+</div>
 </div>
