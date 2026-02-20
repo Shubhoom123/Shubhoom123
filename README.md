@@ -87,7 +87,7 @@ I'm a Computer Science Senior at Arizona State University buildinng full stack p
 ## GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" height="195" /><br>
   <img src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="Top Languages" height="195" />
 </div>
 
@@ -117,7 +117,6 @@ I'm always excited to collaborate on interesting projects or discuss tech! Feel 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-khalkho-4997b2212/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalkhoshubham03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhoom123)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=todoist&logoColor=black)](https://shubhoom123.github.io)
 
 </div>
