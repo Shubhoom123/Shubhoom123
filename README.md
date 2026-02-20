@@ -92,12 +92,12 @@ I'm a Computer Science Senior at Arizona State University buildinng full stack p
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=3fb950&border_color=30363d" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats-pi-three-37.vercel.app/api?username=Shubhoom123&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&icon_color=FF6B35&border_color=30363d" alt="GitHub Stats" width="100%" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats-pi-three-37.vercel.app/api/top-langs/?username=Shubhoom123&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&title_color=FFA500&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="100%" />
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ I'm a Computer Science Senior at Arizona State University buildinng full stack p
 <tr>
 <td colspan="2">
 
-<img src="https://streak-stats.demolab.com/?user=Shubhoom123&theme=github-dark-blue&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&sideLabels=3fb950&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d" alt="GitHub Streak" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Shubhoom123&theme=github-dark-blue&background=0d1117&ring=FFD700&fire=FF4500&currStreakLabel=FF6B35&sideLabels=FFA500&currStreakNum=FFD700&sideNums=FF6B35&dates=8b949e&border=30363d" alt="GitHub Streak" width="100%" />
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ I'm a Computer Science Senior at Arizona State University buildinng full stack p
 <tr>
 <td colspan="2">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=3fb950&line=3fb950&point=c9d1d9&area=true&area_color=3fb950&title_color=3fb950&custom_title=Shubham%20Khalkho's%20Contribution%20Graph&border_color=30363d" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhoom123&bg_color=0d1117&color=FF6B35&line=FFA500&point=FFD700&area=true&area_color=FF6B35&title_color=FF6B35&custom_title=Shubham%20Khalkho's%20Contribution%20Graph&border_color=30363d" alt="Contribution Graph" width="100%" />
 
 </td>
 </tr>
