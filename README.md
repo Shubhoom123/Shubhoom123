@@ -3,6 +3,7 @@
 <!--Banner -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
 
+<div style="text-align: justify;">
 # Hi, I'm Shubham Khalkho
 
 ### Computer Science and Data Science Senior @ ASU
@@ -21,7 +22,6 @@ I'm a **Computer Science Senior** at **Arizona State University** who's currentl
 
 
 ## Tech Stack
-<div align="left>
   
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
