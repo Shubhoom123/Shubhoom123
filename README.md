@@ -1,8 +1,7 @@
-
 <!--Banner -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
 
-<div style="text-align: justify;">
+<div style="text-align: center;">
 # Hi, I'm Shubham Khalkho
 
 ### Computer Science and Data Science Senior @ ASU
@@ -15,11 +14,11 @@
 
 ## About Me
 
-I'm a **Computer Science Senior** at **Arizona State University** who's currently pursuing by the endless potential of technology. Currently on my journey to become a **Full-Stack Developer**.
+I'm a **Computer Science Senior** at **Arizona State University** who's currently pursuing by the endless potential of technology. Currently on my journey to become a **Full-Stack Developer**.<br>
 
-- **Interests:** Problem-solving, Web development, Data analysis and Building Projects.
+**Interests:** Problem-solving, Web development, Data analysis and Building Projects.
 
-
+</div>
 ## Tech Stack
   
 ### Languages
