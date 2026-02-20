@@ -1,7 +1,7 @@
 <!--Banner -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThyMzZoNG14NTM4Z29pand3NjdxZm0zZ2QwYzN4Znd3MDhiem1reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" alt="Elden Ring Banner">
 
-<div style="text-align: center;">
+<div align="center">
 
 # Hi, I'm Shubham Khalkho
 
