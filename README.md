@@ -52,7 +52,7 @@ I'm a Computer Science Senior at Arizona State University buildinng full stack p
 ![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-[![Crates.io](https://shields.io)](https://crates.io/crates/axum)
+![Axum](https://shields.io)
 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
