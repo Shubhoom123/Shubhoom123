@@ -5,7 +5,7 @@
 
 # Hi, I'm Shubham Khalkho
 
-### Computer Science and Data Science Senior @ ASU
+### Computer Science and Data Science
 ### Aspiring Full Stack and MLOps Engineer
 
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Computer Science Senior at Arizona State University buildinng full stack projects and ML Models in my field of study.<br>
+I'm a Computer Scientist building full stack projects and ML Models in my field of study.<br>
 
 </div>
 
